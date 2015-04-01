@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BBC News App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_detailed">DetailedActivity</string>
+    <string name="description">Description</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+
+</resources>

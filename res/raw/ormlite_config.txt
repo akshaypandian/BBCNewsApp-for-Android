@@ -1,0 +1,29 @@
+#
+# generated on 2014/10/20 08:09:00
+#
+# --table-start--
+dataClass=com.example.bbcnewsapp.News
+tableName=news
+# --table-fields-start--
+# --field-start--
+fieldName=title
+id=true
+# --field-end--
+# --field-start--
+fieldName=description
+# --field-end--
+# --field-start--
+fieldName=pubDate
+# --field-end--
+# --field-start--
+fieldName=thumbnailSmall
+# --field-end--
+# --field-start--
+fieldName=thumbnailLarge
+# --field-end--
+# --field-start--
+fieldName=date
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
